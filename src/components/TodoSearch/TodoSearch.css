@@ -1,0 +1,16 @@
+.todoSearch {
+	border-bottom: 1px solid #eeeeee;
+	padding: 1rem;
+}
+
+.todoSearch__label {
+	cursor: pointer;
+	font-size: 1rem;
+	line-height: 1;
+}
+
+.todoSearch__checkbox {
+	align-items: center;
+	display: flex;
+}
+
